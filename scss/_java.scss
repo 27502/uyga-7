@@ -1,0 +1,81 @@
+
+.java{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    letter-spacing: .5px;
+    text-align: center;   
+    width: 100%;
+    height: 90px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 5px;
+    h1{
+        color: yellow;
+        padding: 10px;
+    }
+    
+}
+.Java_haqida{
+    margin-bottom: 30px;
+}
+.faq_item {
+    overflow: hidden;
+    transition: 0.5s;
+    max-height: 40px;
+    cursor: pointer;
+    border-bottom: 2px solid #000000;
+    margin-top: 20px;
+   
+}
+
+.faq_question {
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.faq_item:hover {
+    max-height: 100px;
+}
+.text{
+    margin-top: 30px;
+    width: 100%;
+    height: 40vh;
+    background-color: #000000;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    padding: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.faq_quest {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--neutrals-2);
+}
+
+.faq_select {
+    font-family: "pp";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--neutrals-4);
+}
